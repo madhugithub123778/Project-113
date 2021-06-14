@@ -1,0 +1,29 @@
+body{
+background-image: url("https://image.freepik.com/free-vector/abstract-blue-yellow-watercolor-texture-background_10126-988.jpg");
+background-repeat: no-repeat;background-size: cover;margin-bottom: 700px;
+}
+
+#picture{
+margin-top: 30px;font-family: 'Courier New';background-color: dodgerblue;color: white;width:200px;height: 40px;font-size: 18px;border-radius: 30px;border: 3px solid dodgerblue;
+
+}
+
+#picture:hover{
+background-color: white;color: dodgerblue;transition-duration: 0.5s;
+
+
+}
+
+#filter{
+font-family: 'Courier New';background-color: rebeccapurple;color: white;width:200px;height: 40px;font-size: 16px;border-radius: 30px;border: 3px solid rebeccapurple;
+}
+
+#filter:hover{
+    background-color: white;color: rebeccapurple;transition-duration: 0.5s;
+
+    }
+
+    canvas{
+border: 8px double navy;margin-top: 110px;
+
+    }
